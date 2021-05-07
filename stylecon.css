@@ -1,0 +1,21 @@
+.header {
+    color: rgb(33,37,41);
+    font-size: 27px;
+    padding: 10px;
+}
+
+.form-group{
+    margin-left:  18em;
+}
+
+#footer {
+    text-align: center;
+    background-color: rgb(33,37,41);
+    color: white;
+
+   }
+   #footer p {
+    text-align: center;
+    color: white;
+    padding-top: 2em;
+   }

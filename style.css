@@ -1,0 +1,19 @@
+#about-me{
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+#footer {
+    text-align: center;
+    background-color: rgb(33,37,41);
+    color: white;
+
+   }
+   #footer p {
+    text-align: center;
+    color: white;
+    padding-top: 2em;
+   }
+   .about-me button a {
+       color: white;
+       text-decoration: none;
+   }
